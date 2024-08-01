@@ -1,0 +1,7 @@
+[package]
+name = "lerp-lib"
+version = "0.1.0"
+edition = "2021"
+[[bin]]
+name = "lerp"
+path = "src/main.rs"
